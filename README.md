@@ -1,6 +1,6 @@
-# { name } resume
+# ktagashira's resume
 
-## Sample
+## Inspired
 
 https://github.com/kawamataryo/resume
 
