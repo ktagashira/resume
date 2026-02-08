@@ -18,9 +18,9 @@
 - データ基盤の設計・構築・運用（BigQuery / dbt / Dataform / Looker）
 - 現場部門と密に連携したアジャイルなデータモデリング
 - Google Cloud を活用したデータパイプラインの構築・管理
-- Terraformによるデータ基盤インフラのIaC化
+- Terraform によるデータ基盤インフラの IaC 化
 - Looker を用いた BI ダッシュボードの構築
-- データ基盤と連携したAI エージェントの設計・開発
+- データ基盤と連携した AI エージェントの設計・開発
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### フレームワーク・その他
 
-- Google Cloud（BigQuery, Cloud Run, Cloud Functions, Datastream, Analytics Hub, Cloud DLP）
+- Google Cloud
 - dbt / Dataform
 - Looker / Looker Studio
 - Terraform
@@ -76,7 +76,7 @@
 #### AI エージェント開発
 
 - 事業部横断の CRM 検索エージェント
-  - Google ADK を活用し、Slack から複数CRMの顧客情報を横断検索できるエージェントを開発
+  - Google ADK を活用し、Slack から複数 CRM の顧客情報を横断検索できるエージェントを開発
 
 - IS 架電支援エージェント
   - 架電に必要な企業情報をデータ基盤から収集・要約する AI エージェントを開発し、インサイドセールスの業務効率化に貢献
@@ -93,7 +93,7 @@
 
 #### SNIFFOUT Inc.
 
-- [RAG Ready Converter](https://rag-ready-converter.sniffout.net) の開発に参画。Excel・PowerPoint・画像等の多様なファイル形式を RAG に適した形式へ変換するSaaSプロダクト
+- [RAG Ready Converter](https://rag-ready-converter.sniffout.net) の開発に参画。Excel・PowerPoint・画像等の多様なファイル形式を RAG に適した形式へ変換する SaaS プロダクト
   - ドキュメント変換ロジックの開発（Lambda 上での LibreOffice を用いた XLSX → PDF 変換処理の実装・改善等）
   - AWS インフラの構築・整備
 
@@ -101,7 +101,7 @@
 
 ## 資格
 
-- Google Cloud Professional Data Engineer（2025年5月取得）
+- Google Cloud Professional Data Engineer（2025 年 5 月取得）
 
 ---
 
