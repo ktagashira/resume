@@ -28,39 +28,42 @@
 
 ### 言語
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1.svg?style=flat&logo=amazondynamodb&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Shell%20Script-4EAA25.svg?style=flat&logo=gnu-bash&logoColor=white">
-<img src="https://img.shields.io/badge/HCL-7B42BC.svg?style=flat&logo=terraform&logoColor=white">
-<img src="https://img.shields.io/badge/LookML-4285F4.svg?style=flat&logo=looker&logoColor=white">
-</p>
+- Python
+- SQL
+- TypeScript
+- Shell Script
 
-### データ基盤
+### クラウド・インフラ
 
-<p>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat&logo=google-cloud&logoColor=white">
-<img src="https://img.shields.io/badge/BigQuery-669DF6.svg?style=flat&logo=googlebigquery&logoColor=white">
-<img src="https://img.shields.io/badge/dbt-FF694B.svg?style=flat&logo=dbt&logoColor=white">
-<img src="https://img.shields.io/badge/Dataform-4285F4.svg?style=flat&logoColor=white">
-<img src="https://img.shields.io/badge/Looker-4285F4.svg?style=flat&logo=looker&logoColor=white">
-<img src="https://img.shields.io/badge/Terraform-7B42BC.svg?style=flat&logo=terraform&logoColor=white">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/Embulk-DE3727.svg?style=flat&logoColor=white">
-<img src="https://img.shields.io/badge/Digdag-F2B40C.svg?style=flat&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat&logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white">
-</p>
+- Google Cloud
+- Azure
+- Terraform (HCL)
+- Kubernetes
+- Docker
+- GitHub Actions
+
+### DWH・データモデリング
+
+- BigQuery
+- dbt
+- Dataform
+
+### BI
+
+- Looker
+- Looker Studio
+- LookML
+
+### ETL・ワークフロー
+
+- Embulk
+- Digdag
 
 ### 機械学習・AI
 
-<p>
-<img src="https://img.shields.io/badge/Azure-0078D4.svg?style=flat&logo=microsoftazure&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Agent%20Development%20Kit-4285F4.svg?style=flat&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/Dify-1677FF.svg?style=flat&logoColor=white">
-</p>
+- PyTorch
+- Agent Development Kit (ADK)
+- Dify
 
 ---
 
