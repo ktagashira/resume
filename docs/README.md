@@ -28,23 +28,39 @@
 
 ### 言語
 
-- Python
-- SQL
-- TypeScript
-- Shell Script
-- HCL (Terraform)
-- LookML
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1.svg?style=flat&logo=amazondynamodb&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Shell%20Script-4EAA25.svg?style=flat&logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/HCL-7B42BC.svg?style=flat&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/LookML-4285F4.svg?style=flat&logo=looker&logoColor=white">
+</p>
 
-### フレームワーク・その他
+### データ基盤
 
-- Google Cloud
-- dbt / Dataform
-- Looker / Looker Studio
-- Terraform
-- GitHub Actions
-- Agent Development Kit (ADK)
-- Dify
-- Docker
+<p>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat&logo=google-cloud&logoColor=white">
+<img src="https://img.shields.io/badge/BigQuery-669DF6.svg?style=flat&logo=googlebigquery&logoColor=white">
+<img src="https://img.shields.io/badge/dbt-FF694B.svg?style=flat&logo=dbt&logoColor=white">
+<img src="https://img.shields.io/badge/Dataform-4285F4.svg?style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/Looker-4285F4.svg?style=flat&logo=looker&logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-7B42BC.svg?style=flat&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Embulk-DE3727.svg?style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/Digdag-F2B40C.svg?style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white">
+</p>
+
+### 機械学習・AI
+
+<p>
+<img src="https://img.shields.io/badge/Azure-0078D4.svg?style=flat&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Agent%20Development%20Kit-4285F4.svg?style=flat&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Dify-1677FF.svg?style=flat&logoColor=white">
+</p>
 
 ---
 
@@ -82,12 +98,45 @@
   - 架電に必要な企業情報をデータ基盤から収集・要約する AI エージェントを開発し、インサイドセールスの業務効率化に貢献
 
 - 社内 AI プラットフォームの構築・運用
-    - Dify を GKE 上に構築し、社内向け AI プラットフォームとして運用
+  - Dify を GKE 上に構築し、社内向け AI プラットフォームとして運用
 
 #### その他
 
 - Looker SDK を利用した LookML バリデーション CI の構築
 - 分析プロジェクトの標準化（分析ナレッジ・クエリの蓄積基盤の整備）
+
+### 株式会社wevnal（2022/04〜2024/04）
+
+LINE を活用したマーケティング SaaS「BOTCHAN」シリーズを提供する企業にて、機械学習エンジニア・データエンジニアとして、AI-FAQ プロダクトの ML 機能開発、データ基盤構築、テクニカルディレクションを担当。
+
+#### 新規 AI-FAQ プロダクト「BOTCHAN AI」の AI 機能開発
+
+- toC 企業向け AI-FAQ プロダクトの自然言語処理機能開発
+  - ML を活用できるユースケースの検討・ML 機能開発ロードマップの策定
+  - 技術選定・PoC 検証
+  - データの前処理・特徴量エンジニアリング・学習・推論
+  - 運用に向けた ML 推論の高速化・処理の軽量化
+  - オフショア先と連携した運用
+  - アナリティクス画面のデザイン設計・バックエンドの分析機能実装
+
+- ChatGPT 搭載の接客オートメーションツールへの進化に伴う開発
+  - Azure OpenAI Service / Azure AI Search / Azure API Management を活用した仕様策定・PoC 検証・開発
+
+#### LINE コミュニケーション SaaS「BOTCHAN Relation」のデータ基盤構築
+
+- データ基盤構築およびレポート提供
+  - 分析データ基盤の設計・実装・保守運用
+  - プロダクト利用データの解析基盤を設計し、レポートへ反映
+  - 約 1 ヶ月でデータ基盤の設計から初期クライアントへのレポート提供までを完了
+  - データ基盤の CI にバリデーションを導入し、迅速かつ安全なデプロイを実現
+  - 計測指標を具体的な定義に落とし込み、プロダクト導入前後の効果をレポート化。データドリブンなプロダクト改善を促進
+
+#### 「BOTCHAN AI」テクニカルディレクション
+
+- Biz メンバーと連携し、BOTCHAN AI のクライアントに対するテクニカルディレクションを担当
+  - クライアント側の独自データのマネジメント
+  - 各クライアントの要望に合わせたプロンプトチューニング
+  - クライアントからの追加開発要望に対する見積もり・要件整理
 
 ### 副業・業務委託
 
