@@ -42,7 +42,7 @@
 - Looker / Looker Studio
 - Terraform
 - GitHub Actions
-- Google Agent Development Kit (ADK)
+- Agent Development Kit (ADK)
 - Dify
 - Docker
 
@@ -94,7 +94,7 @@
 #### SNIFFOUT Inc.
 
 - [RAG Ready Converter](https://rag-ready-converter.sniffout.net) の開発に参画。Excel・PowerPoint・画像等の多様なファイル形式を RAG に適した形式へ変換する SaaS プロダクト
-  - ドキュメント変換ロジックの開発（Lambda 上での LibreOffice を用いた XLSX → PDF 変換処理の実装・改善等）
+  - ドキュメント変換ロジックの開発
   - AWS インフラの構築・整備
 
 ---
