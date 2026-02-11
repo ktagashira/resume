@@ -141,6 +141,12 @@
 
 ---
 
+## 学歴
+
+- 東京理科大学 応用生物科学科（2022 年 3 月卒業）
+
+---
+
 ## 資格
 
 - Google Cloud Professional Data Engineer（2025 年 5 月取得）
