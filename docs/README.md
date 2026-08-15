@@ -163,6 +163,7 @@
 
 ### テックブログ・記事執筆
 
+- [事業拡大に伴うマルチプロダクトデータ基盤のプラットフォーム化](https://tech.findy.co.jp/entry/2026/03/16/070000)（Findy Tech Blog）
 - [MCPとAIエージェントを活用してSlackから複数CRMの顧客情報を横断検索できる仕組みを作った話](https://tech.findy.co.jp/entry/2025/07/08/070000)（Findy Tech Blog）
 - [Dataformの活用とその効果](https://tech.findy.co.jp/entry/2024/07/01/083000)（Findy Tech Blog）
 - [Looker SDKを使ってLookMLのバリデーションCIを自作した話](https://zenn.dev/chabasssy/articles/d3aebc9d30d6b8)（Zenn, 2025/12）
@@ -171,8 +172,10 @@
 
 ### 登壇
 
-- [ADKを活用して事業部横断の企業検索エージェントを作成した話](https://speakerdeck.com/ktagashira)（SpeakerDeck, 1.3k views）
-- [Findyのユーザーサクセス面談を支えるデータ技術](https://speakerdeck.com/ktagashira)（SpeakerDeck, 780 views）
+- [データモデリングを通じて管理会計のオペレーションを再設計する](https://speakerdeck.com/ktagashira/detamoderinguwotong-ziteguan-li-hui-ji-nooperesiyonwozai-she-ji-suru)（SpeakerDeck, 1.6k views）
+- [事業拡大と共に歩むプラットフォームへの道 Google Cloudによる拡張可能なデータ基盤](https://speakerdeck.com/ktagashira/shi-ye-kuo-da-togong-nibu-mupuratutohuomuhenodao-google-cloudniyorukuo-zhang-ke-neng-nadetaji-pan)（Google Cloud Community Tech Surge 2026, SpeakerDeck）
+- [ADKを活用して事業部横断の企業検索エージェントを作成した話](https://speakerdeck.com/ktagashira/adkwohuo-yong-siteshi-ye-bu-heng-duan-noqi-ye-jian-suo-ezientowozuo-cheng-sitahua)（SpeakerDeck, 1.3k views）
+- [Findyのユーザーサクセス面談を支えるデータ技術](https://speakerdeck.com/ktagashira/findynoyuzasakusesumian-tan-wozhi-erudetaji-shu)（SpeakerDeck, 780 views）
 
 ### OSS
 
